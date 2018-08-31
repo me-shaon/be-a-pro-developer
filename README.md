@@ -4,4 +4,4 @@ Becoming a 'Software developer' is easy. But mastering the craft and becoming a 
 
 This repository will compose a list of topics, along with the resources to learn them, which should be learned to be a true 'ninja' developer. 
 
-**Feel free to contribute as much as you can to make it useful for everyone. **
+***Feel free to contribute as much as you can to make it useful for everyone.***
