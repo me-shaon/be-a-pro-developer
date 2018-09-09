@@ -9,6 +9,15 @@ This repository will compose a list of topics, along with the resources to learn
 ---
 
 ## Table of Contents
+
+- Version Control
+    - GIT
+        - Basic tutorials 
+            - [Become a git guru - Atlassian](https://www.atlassian.com/git/tutorials)
+        - GIT flow
+            - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+            - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+    
 - Software Versioning
     - Semantic Versioning (SemVer)
         - [semver.org](https://semver.org/)
