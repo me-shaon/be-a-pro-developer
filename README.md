@@ -15,6 +15,7 @@ This repository will compose a list of topics, along with the resources to learn
         - Basic tutorials 
             - [Become a git guru - Atlassian](https://www.atlassian.com/git/tutorials)
         - GIT flow
+            - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
             - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
             - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
     
