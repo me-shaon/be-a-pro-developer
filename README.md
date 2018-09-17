@@ -29,3 +29,9 @@ This repository will compose a list of topics, along with the resources to learn
     - Calendar Versioning (CalVer)
         - [calver.org](https://calver.org/)
 
+- Guidelines
+    - [KISS - Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle)
+    - [DRY - Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+    - [YAGNI - You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+    - [S.O.L.I.D.](https://en.wikipedia.org/wiki/SOLID)
+
