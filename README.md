@@ -10,10 +10,10 @@ This repository will compose a list of topics, along with the resources to learn
 
 ## Table of Contents
 
+- Regular Expression (Regex)
+    - [Learn Regex](https://github.com/zeeshanu/learn-regex)
+    - [Learn Regular Expression - RegexOne](https://regexone.com/)
 - Version Control
-    - Regular Expression (Regex)
-        - [Learn Regex](https://github.com/zeeshanu/learn-regex)
-        - [Learn Regular Expression - RegexOne](https://regexone.com/)
     - GIT
         - Basic tutorials 
             - [Become a git guru - Atlassian](https://www.atlassian.com/git/tutorials)
