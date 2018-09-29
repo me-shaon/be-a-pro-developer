@@ -21,6 +21,9 @@ This repository will compose a list of topics, along with the resources to learn
             - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
             - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
             - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+        - GIT Semantic commit message
+            - [Git Commit Msg - Karma](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
+            - [Semantic Commit Messages - Sparkbox](https://seesparkbox.com/foundry/semantic_commit_messages)
     
 - Software Versioning
     - Semantic Versioning (SemVer)
