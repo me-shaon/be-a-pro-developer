@@ -2,7 +2,7 @@
 
 Becoming a 'Software developer' is easy. But mastering the craft and becoming a 'Pro' in the field is not. It requires hard work, experience and learning a lot of stuff. 
 
-This repository will compose a list of topics, along with the resources to learn them, which should be learned to excel in the field of Software Development. 
+This repository will compose a list of topics, along with the resources to learn them, which will help one to excel in the field of Software Development. 
 
 ***Feel free to contribute as much as you can to make it useful for everyone.***
 
@@ -10,6 +10,15 @@ This repository will compose a list of topics, along with the resources to learn
 
 ## Table of Contents
 
+- Data Exchange/Serialization formats
+    - JSON
+        - [Introduction to JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
+    - Protocol Buffers (protobuf)
+        - [Protocol Buffers Tutorial - Google](https://developers.google.com/protocol-buffers/docs/tutorials)
+    - Comma-separated Values (CSV)
+        - [CSV - Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
+    - XML
+        - [A Really, Really, Really Good Introduction to XML - Sitepoint](https://www.sitepoint.com/really-good-introduction-xml/)
 - Regular Expression (Regex)
     - [Learn Regex](https://github.com/zeeshanu/learn-regex)
     - [Learn Regular Expression - RegexOne](https://regexone.com/)
