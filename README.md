@@ -41,6 +41,14 @@ This repository will compose a list of topics, along with the resources to learn
     - Calendar Versioning (CalVer)
         - [calver.org](https://calver.org/)
 
+- Web 
+    - HTTP
+        - [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
+    - Webhook
+        - [What are Webhooks and Why You Can’t Afford to Ignore Them](https://www.chargebee.com/blog/what-are-webhooks-explained/)
+        - [Webhook for you and me](https://hackernoon.com/webhook-for-you-and-me-54b83f5e31d0)
+- Distributed Systems
+    - [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 - Guidelines
     - [KISS - Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle)
     - [DRY - Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
