@@ -33,6 +33,7 @@ This repository will compose a list of topics, along with the resources to learn
         - GIT Semantic commit message
             - [Git Commit Msg - Karma](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
             - [Semantic Commit Messages - Sparkbox](https://seesparkbox.com/foundry/semantic_commit_messages)
+            - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
     
 - Software Versioning
     - Semantic Versioning (SemVer)
